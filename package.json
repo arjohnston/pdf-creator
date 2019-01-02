@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "@progress/kendo-drawing": "^1.5.7",
-    "@progress/kendo-react-pdf": "^2.4.0",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "^2.1.1",
+    "@progress/kendo-react-pdf": "^2.5.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.2",
     "react-sortable-hoc": "^0.8.4"
   },
   "scripts": {
