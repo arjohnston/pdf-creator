@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@progress/kendo-drawing": "^1.5.12",
-    "@progress/kendo-react-pdf": "^2.11.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.1",
-    "react-sortable-hoc": "^0.8.4"
+    "@progress/kendo-drawing": "^1.6.0",
+    "@progress/kendo-react-pdf": "^3.4.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "^3.2.0",
+    "react-sortable-hoc": "^1.10.1"
   },
   "scripts": {
     "start": "react-scripts start",
